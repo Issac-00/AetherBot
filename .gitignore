@@ -19,7 +19,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 **/Schema
 config.json
 start.bat
-temp
+*.temp
 
 
 # Ignore IDE and editor-specific files
