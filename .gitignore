@@ -17,6 +17,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 **/Functions
 **/Handlers
 **/Schema
+**/Website
 config.json
 start.bat
 *.temp
