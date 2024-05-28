@@ -20,6 +20,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 config.json
 start.bat
 *.temp
+*.exe
 
 
 # Ignore IDE and editor-specific files
